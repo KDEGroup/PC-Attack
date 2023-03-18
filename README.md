@@ -1,7 +1,7 @@
 
 # PC-Attack
 
-Source code for AAAI'23 paper "Practical Cross-system Shilling Attacks with Limited Access to Data".
+Source code for AAAI'23 paper "Practical Cross-System Shilling Attacks with Limited Access to Data" [[arXiv preprint](https://arxiv.org/abs/2302.07145)].
 
 ## Environment
 - Linux with Python ≥ 3.6
